@@ -47,7 +47,7 @@ function Pie() {
                 	</a>
             	</li>
         	</IconoContainer>
-        	<PieTexto>Desarrollado por s3codecL.</PieTexto>
+        	<PieTexto>Desarrollado por s3codecl &copy; 2024.</PieTexto>
     	</PieEstilizado>
 	);
 }
